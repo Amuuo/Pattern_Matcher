@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Documents\generalProgramming\Pattern_Matcher\Pattern_Matcher\Source.cpp(51,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\generalProgramming\Pattern_Matcher\Pattern_Matcher\Source.cpp(89,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\generalProgramming\Pattern_Matcher\Pattern_Matcher\Source.cpp(124,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\generalProgramming\Pattern_Matcher\Pattern_Matcher\Source.cpp(128,19): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\generalProgramming\Pattern_Matcher\Pattern_Matcher\Source.cpp(133,23): warning C4018:  '<': signed/unsigned mismatch
+  Pattern_Matcher.vcxproj -> D:\Documents\generalProgramming\Pattern_Matcher\Debug\Pattern_Matcher.exe
